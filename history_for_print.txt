@@ -1,0 +1,287 @@
+    1  python3
+    2  python3
+    3  python3
+    4  python3
+    5  c
+    6  ls
+    7  pwd
+    8  python Turtel.py
+    9  python3
+   10  python3
+   11  ls
+   12  Desktop
+   13  pwd Desktop
+   14  python3 Turtle1ex.py
+   15  cd
+   16  Downloads
+   17  ls
+   18  cd Desktop
+   19  pwd
+   20  ls
+   21  python3 Turtleloop3.py
+   22  cd Desktop
+   23  python3 Turtle3.py
+   24  python3 Turtle3.py
+   25  cd Desktop
+   26  python3 Turtle3.py
+   27  python3 Turtle3.py
+   28  python3 Turtle3.py
+   29  python3 Turtle3.py
+   30  cd Desktop
+   31  python3 TurtleLoop2.py
+   32  python3 TurtleLoop2.py
+   33  python3 TurtleLoop2.py
+   34  python3 TurtleLoop2.py
+   35  python3 TurtleLoop2.py
+   36  python3 TurtleLoop2.py
+   37  python3 TurtleLoop2.py
+   38  python3 TurtleLoop2.py
+   39  python3 TurtleLoop2.py
+   40  python3 TurtleLoop2.py
+   41  python3 TurtleLoop2.py
+   42  cd
+   43  cd Desktop
+   44  python3 TurtleLoop2.py
+   45  7
+   46  python3 TurtleLoop2.py
+   47  python3 TurtleLoop2.py
+   48  python3 TurtleLoop2.py
+   49  python3 TurtleLoop2.py
+   50  python3 TurtleLoop2.py
+   51  python3 TurtleLoop2.py
+   52  python3 TurtleLoop2.py
+   53  python3 TurtleLoop2.py
+   54  python3 TurtleLoop2.py
+   55  python3 TurtleLoop2.py
+   56  python3 TurtleLoop2.py
+   57  python3 TurtleLoop2.py
+   58  python3 TurtleLoop2.py
+   59  python3 TurtleLoop2.py
+   60  python3 TurtleLoop2.py
+   61  python3 TurtleLoop2.py
+   62  python3 TurtleLoop2.py
+   63  python3 TurtleLoop2.py
+   64  cd Desktop
+   65  python3 TurtleLoop2.py
+   66  python3 TurtleLoop2.py
+   67  python3 TurtleLoop2.py
+   68  python3 TurtleLoop2.py
+   69  python3 TurtleLoop2.py
+   70  python3 TurtleLoop2.py
+   71  python3 TurtleLoop2.py
+   72  python3 TurtleLoop2.py
+   73  python3 TurtleLoop2.py
+   74  python3 TurtleLoop2.py
+   75  python3 TurtleLoop2.py
+   76  python3 TurtleLoop2.py
+   77  python3 TurtleLoop2.py
+   78  python3 TurtleLoop2.py
+   79  python3 TurtleLoop2.py
+   80  python3 TurtleLoop2.py
+   81  python3 TurtleLoop2.py
+   82  python3 TurtleLoop2.py
+   83  python3 TurtleLoop2.py
+   84  7
+   85  python3 TurtleLoop2.py
+   86  python3 TurtleLoop2.py
+   87  python3 TurtleLoop2.py
+   88  python3 TurtleLoop2.py
+   89  5
+   90  python3 TurtleLoop2.py
+   91  python3 TurtleLoop2.py
+   92  cd Desktop
+   93  python3 TurtleLoop2.py
+   94  python3 TurtleLoop2.py
+   95  python3 TurtleLoop2.py
+   96  python3 TurtleLoop2.py
+   97  python3 TurtleLoop2.py
+   98  python3 TurtleLoop2.py
+   99  python3 TurtleLoop2.py
+  100  python3 TurtleLoop2.py
+  101  python3 TurtleLoop2.py
+  102  cd Desktop
+  103  python3 Star.py
+  104  python3 Star.py
+  105  cd Desktop
+  106  python3 Star.py
+  107  python3
+  108  python3
+  109  python
+  110  python3
+  111  python
+  112  ls
+  113  cd Desktop
+  114  ls
+  115  python3
+  116  ls
+  117  ed
+  118  ls
+  119  ls
+  120  cd Desktop
+  121  ls
+  122  cd LEEPS
+  123  source venv/bin/activate
+  124  pip3 install -U otree
+  125  otree
+  126  upgrade pip
+  127  python
+  128  ls
+  129  source venv/bin/activate
+  130  python3 -m venv venv
+  131  ls
+  132  source venv/bin/activate
+  133  pip3 install -U otree
+  134  ls
+  135  pip3 instal -U otree
+  136  install pip3 -U otree
+  137  source venv/bin/activate
+  138  pip install -U otree
+  139  ls
+  140  cd venv
+  141  otree
+  142  cd oTree project
+  143  /Users/dylanesguerra/Desktop/LEEPS/venv/bin/otree ; exit;
+  144  python
+  145  cd leeps
+  146  python3
+  147  brew install git
+  148  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  149  brew install git
+  150  otree -V
+  151  git config --global user.name "dylanEsguerra"
+  152  git config --global user.email desguerr@ucsc.edu
+  153  cd /Users/dylanesguerra/Desktop/LEEPS 
+  154  cd ..
+  155  cd LEEPS
+  156  git clone https://github.com/dylanEsguerra/hello-world-.git
+  157  ls
+  158  cd hello-world-/
+  159  git status
+  160  git branch
+  161  git branch -a
+  162  git checkout -b dylan
+  163  echo "hello world">hello_world.txt
+  164  git status
+  165  git add .
+  166  git status
+  167  history > history_for_print.txt
+
+
+ Homebrew has enabled anonymous aggregate formulae and cask analytics.
+Read the analytics documentation (and how to opt-out) here:
+  https://docs.brew.sh/Analytics
+No analytics data has been sent yet (or will be during this `install` run).
+
+==> Homebrew is run entirely by unpaid volunteers. Please consider donating:
+  https://github.com/Homebrew/brew#donations
+
+==> Next steps:
+- Run `brew help` to get started
+- Further documentation: 
+    https://docs.brew.sh
+(base) MacBook-Pro:~ dylanesguerra$ brew install git
+==> Downloading https://homebrew.bintray.com/bottles/gettext-0.21.catalina.bottl
+==> Downloading from https://d29vzk4ow07wi7.cloudfront.net/cdea54f52b7c36ebcb5fe
+######################################################################## 100.0%
+==> Downloading https://homebrew.bintray.com/bottles/pcre2-10.35.catalina.bottle
+==> Downloading from https://d29vzk4ow07wi7.cloudfront.net/6a1e59a5db23d684f92d2
+######################################################################## 100.0%
+==> Downloading https://homebrew.bintray.com/bottles/git-2.28.0.catalina.bottle.
+==> Downloading from https://d29vzk4ow07wi7.cloudfront.net/6c4d10f29f78dcbefa12f
+######################################################################## 100.0%
+==> Installing dependencies for git: gettext and pcre2
+==> Installing git dependency: gettext
+==> Pouring gettext-0.21.catalina.bottle.tar.gz
+🍺  /usr/local/Cellar/gettext/0.21: 1,953 files, 19.0MB
+==> Installing git dependency: pcre2
+==> Pouring pcre2-10.35.catalina.bottle.tar.gz
+🍺  /usr/local/Cellar/pcre2/10.35: 230 files, 6.0MB
+==> Installing git
+==> Pouring git-2.28.0.catalina.bottle.tar.gz
+==> Caveats
+The Tcl/Tk GUIs (e.g. gitk, git-gui) are now in the `git-gui` formula.
+
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+
+zsh completions and functions have been installed to:
+  /usr/local/share/zsh/site-functions
+
+Emacs Lisp files have been installed to:
+  /usr/local/share/emacs/site-lisp/git
+==> Summary
+🍺  /usr/local/Cellar/git/2.28.0: 1,482 files, 48.9MB
+==> Caveats
+==> git
+The Tcl/Tk GUIs (e.g. gitk, git-gui) are now in the `git-gui` formula.
+
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+
+zsh completions and functions have been installed to:
+  /usr/local/share/zsh/site-functions
+
+Emacs Lisp files have been installed to:
+  /usr/local/share/emacs/site-lisp/git
+(base) MacBook-Pro:~ dylanesguerra$ otree -V
+(base) MacBook-Pro:~ dylanesguerra$ git config --global user.name "dylanEsguerra"
+(base) MacBook-Pro:~ dylanesguerra$ git config --global user.email desguerr@ucsc.edu
+(base) MacBook-Pro:~ dylanesguerra$ cd /Users/dylanesguerra/Desktop/LEEPS 
+(base) MacBook-Pro:LEEPS dylanesguerra$ cd ..
+(base) MacBook-Pro:Desktop dylanesguerra$ cd LEEPS
+(base) MacBook-Pro:LEEPS dylanesguerra$ git clone https://github.com/dylanEsguerra/hello-world-.git
+Cloning into 'hello-world-'...
+remote: Enumerating objects: 7, done.
+remote: Counting objects: 100% (7/7), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 7 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (7/7), 1.86 KiB | 476.00 KiB/s, done.
+(base) MacBook-Pro:LEEPS dylanesguerra$ ls
+1-s2.0-016726819090063J-main.pdf
+1-s2.0-0167487096000153-main.pdf
+1-s2.0-0278425488900026-main.pdf
+1-s2.0-S0167268109000183-main.pdf
+1-s2.0-S0167487001000289-main.pdf
+1-s2.0-S0747563215302739-main.pdf
+15838.full.pdf
+2131574.pdf
+Fallan1999_Article_GenderExposureToTaxKnowledgeAn.pdf
+LEEPS emails.dta
+Spring 2020 classes list.csv
+ajps.12180.pdf
+hello-world-
+j.1465-7295.2007.00048.x.pdf
+redistribution_5july2018_FINAL1.pdf
+venv
+(base) MacBook-Pro:LEEPS dylanesguerra$ cd hello-world-/
+(base) MacBook-Pro:hello-world- dylanesguerra$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+(base) MacBook-Pro:hello-world- dylanesguerra$ git branch
+* master
+(base) MacBook-Pro:hello-world- dylanesguerra$ git branch -a
+* master
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/master
+(base) MacBook-Pro:hello-world- dylanesguerra$ git checkout -b dylan
+Switched to a new branch 'dylan'
+(base) MacBook-Pro:hello-world- dylanesguerra$ echo "hello world">hello_world.txt
+(base) MacBook-Pro:hello-world- dylanesguerra$ git status
+On branch dylan
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	hello_world.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+(base) MacBook-Pro:hello-world- dylanesguerra$ git add .
+(base) MacBook-Pro:hello-world- dylanesguerra$ git status
+On branch dylan
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   hello_world.txt
+
+(base) MacBook-Pro:hello-world- dylanesguerra$ history > history_for_print.txt
+(base) MacBook-Pro:hello-world- dylanesguerra$ 
+
